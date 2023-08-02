@@ -10,7 +10,7 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url(https://wallpapercave.com/wp/wp11696085.png');
+    --background: url('https://wallpapercave.com/wp/wp11696085.png');
     --activetext-colour: white;
 
     --primary1-colour: red;
