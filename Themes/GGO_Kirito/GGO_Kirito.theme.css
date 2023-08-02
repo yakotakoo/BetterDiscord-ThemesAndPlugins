@@ -10,12 +10,12 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://images6.alphacoders.com/128/1283057.jpg');
+    --background: url('https://kanau.org/wp-content/uploads/2022/12/Episode_1-4.png');
     --activetext-colour: white;
 
     --primary1-colour: pink;
-    --primary2-colour: rgba(246, 212, 221);
-    --primary3-colour: rgba(234, 160, 177);
+    --primary2-colour: rgba(246,212,221);
+    --primary3-colour: rgba(234,160,177);
 
     --secondary1-colour: rgba(135,206,235, 0);
     --secondary2-colour: rgba(255,211,0,0);
