@@ -10,16 +10,16 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://images.alphacoders.com/632/632525.png');
+    --background: url(https://wallpapercave.com/wp/wp11696085.png');
     --activetext-colour: white;
 
     --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary2-colour: rgba(246, 212, 221);
+    --primary3-colour: rgba(234, 160, 177);
 
-    --secondary1-colour: rgba(50,50,50,0.3);
-    --secondary2-colour: rgba(100,100,100,0.5);
-    --secondary3-colour: rgba(0,0,0,0.5);
+    --secondary1-colour: rgba(135,206,235, 0);
+    --secondary2-colour: rgba(255,211,0,0);
+    --secondary3-colour: rgba(255,255,255,255);
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
