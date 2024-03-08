@@ -1,5 +1,5 @@
 /**
- * @name GGO Kirito
+ * @name yakotakoo
  * @author VaporousCreeper
  * @version 1.3.X
  * @description A theme with Kirito and Deathgun fighting in GGO (Gun Gale Online)
@@ -10,12 +10,12 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://kanau.org/wp-content/uploads/2022/12/Episode_1-4.png');
+    --background: url('https://proseanime.files.wordpress.com/2021/02/wanna-wrestle.png');
     --activetext-colour: white;
 
-    --primary1-colour: pink;
-    --primary2-colour: rgba(246,212,221,0.2);
-    --primary3-colour: rgba(234,160,177,0.3);
+    --primary1-colour: white;
+    --primary2-colour: rgba(224,224,224,0.2);
+    --primary3-colour: rgba(138,138,138,0.3);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,1);
