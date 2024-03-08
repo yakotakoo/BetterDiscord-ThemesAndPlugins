@@ -10,12 +10,12 @@
 @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://proseanime.files.wordpress.com/2021/02/wanna-wrestle.png');
+    --background: url('https://a.storyblok.com/f/178900/1504x846/43c645d797/chainsaw-man-ed-4.jpg');
     --activetext-colour: white;
 
-    --primary1-colour: white;
-    --primary2-colour: rgba(224,224,224,0.2);
-    --primary3-colour: rgba(138,138,138,0.3);
+    --primary1-colour: red;
+    --primary2-colour: rgba(255,17,0,0.2);
+    --primary3-colour: rgba(69,5,0,0.3);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,1);
